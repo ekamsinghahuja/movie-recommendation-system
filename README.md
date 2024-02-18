@@ -1,4 +1,4 @@
-![image](https://github.com/ekamsinghahuja/movie-recommendation-system/assets/97456246/4c71c49b-f3c3-4bc2-9813-4608eb60b80e)## MOVIE RECOMMENDATION SYSTEM
+## MOVIE RECOMMENDATION SYSTEM
 
 ![Website Screenshot](imgg.jpeg)
 
