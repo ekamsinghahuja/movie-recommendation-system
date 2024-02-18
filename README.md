@@ -71,7 +71,7 @@ By following these steps, the recommendation system analyzes textual features of
 Count Vectorization is a technique used in natural language processing (NLP) to convert a collection of text documents into a numerical representation that machine learning algorithms can understand. It's one of the simplest and most commonly used methods for text feature extraction.
 
 <p align="center">
-  <img src="https://www.educative.io/api/edpresso/shot/5197621598617600/image/6596233398321152" alt="Image" width="50%" height="50%">
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*RsrKmLuFVZcgZ3Z7sOzGKw.png" alt="Image" width="50%" height="50%">
 </p>
 
 
