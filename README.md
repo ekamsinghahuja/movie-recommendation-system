@@ -6,6 +6,9 @@
 
 [GET ROCOMMENDED](https://movie-recommendation-system-6dsabbtei9kns3qby52xwx.streamlit.app/)
 
+#main notebook
+[Link](https://www.kaggle.com/ekamsingh123go/movie-rec)
+
 # DataSet Used
 
 The dataset used in this project contains information on 5000 movies, including various details such as genre, cast, crew, and more. This dataset serves as the foundation for the analysis helps in building recommendation system
