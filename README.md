@@ -9,11 +9,10 @@
 
 ## Cosine Similarity
 
-Cosine similarity is a metric used to measure the similarity between two vectors in a multi-dimensional space. It calculates the cosine of the angle between these vectors, which is a measure of how closely they align with each other. The formula for cosine similarity is:
+Cosine similarity is a metric used to measure the similarity between two vectors in a multi-dimensional space. It calculates the cosine of the angle between these vectors, which is a measure of how closely they align with each other. for better understanding , please refer
 
-\[ \text{cosine\_similarity}(\mathbf{A}, \mathbf{B}) = \frac{\mathbf{A} \cdot \mathbf{B}}{||\mathbf{A}|| \cdot ||\mathbf{B}||} \]
+![Website Screenshot](sim_example.jpeg)
 
-where \( \mathbf{A} \) and \( \mathbf{B} \) are the vectors being compared, \( \cdot \) denotes the dot product, and \( ||\mathbf{A}|| \) and \( ||\mathbf{B}|| \) are the magnitudes of the vectors.
 
 ### Applications
 
