@@ -6,16 +6,16 @@
 
 [GET ROCOMMENDED](https://movie-recommendation-system-6dsabbtei9kns3qby52xwx.streamlit.app/)
 
-## DataSet Used
+# DataSet Used
 
 The dataset used in this project contains information on 5000 movies, including various details such as genre, cast, crew, and more. This dataset serves as the foundation for the analysis helps in building recommendation system
 
-## Types of Recommendation Systems
+# Types of Recommendation Systems
 
 In this project, we utilize Content-Based Filtering recommendation systems to provide personalized recommendations to users. 
 The main types of recommendation systems implemented are:
 
-**Content-Based Filtering:**
+## Content-Based Filtering:
 Content-based filtering methods are based on the description of a product and a profile of the user’s preferred choices. In this recommendation system, products are described using keywords, and a user profile is built to express the kind of item this user likes.
 **For instance, if a user likes to watch movies such as Iron Man, the recommender system recommends movies of the superhero genre or films describing Tony Stark.**
 
@@ -25,7 +25,7 @@ Content-based filtering methods are based on the description of a product and a 
 <!-- ![Image](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*3YEZG1dEqvNz70h0uhP5Fg.png){:height="50%" width="50%"} -->
 
 
-**Collaborative Filtering:**
+## Collaborative Filtering:
 The collaborative filtering method is based on gathering and analyzing data on user’s behavior. This includes the user’s online activities and predicting what they will like based on the similarity with other users.For example, if user A likes Apple, Banana, and Mango while user B likes Apple, Banana, and Jackfruit, they have similar interests. So, it is highly likely that A would like Jackfruit and B would enjoy Mango. This is how collaborative filtering takes place.
 
 <p align="center">
@@ -33,30 +33,18 @@ The collaborative filtering method is based on gathering and analyzing data on u
 <!-- ![Image](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*SPE85ePd_aiJDO9RVbfbig.png){:height="50%" width="50%"} -->
 </p>
    
-**Hybrid Recommendation Systems:**
+## Hybrid Recommendation Systems:**
  In hybrid recommendation systems, products are recommended using both content-based and collaborative filtering simultaneously to suggest a broader range of products to customers. This recommendation system is up-and-coming and is said to provide more accurate recommendations than other recommender systems.
 
 <p align="center">
 <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*jBBeSKBQg4H7VslNT34f4w.png" alt="Image" width="50%" height="50%">
 </p>
    
-## Cosine Similarity
+# Cosine Similarity
 
 Cosine similarity is a metric used to measure the similarity between two vectors in a multi-dimensional space. It calculates the cosine of the angle between these vectors, which is a measure of how closely they align with each other. for better understanding , please refer
 
 <p align="center">
   <img src="sim_ex.jpeg" alt="Image" width="50%" height="50%">
 </p>
-
-### Applications
-
-Cosine similarity finds applications in various fields, including:
-
-- **Natural Language Processing (NLP):** In text analysis, documents can be represented as vectors of word frequencies or embeddings. Cosine similarity is used to measure the similarity between documents, enabling tasks such as document clustering, information retrieval, and document similarity ranking.
-
-- **Information Retrieval:** Cosine similarity is utilized in search engines to match user queries with relevant documents. By computing the similarity between the query vector and document vectors, search engines can rank documents based on their relevance to the query.
-
-- **Recommendation Systems:** In collaborative filtering recommendation systems, user-item interactions are represented as vectors. Cosine similarity is employed to find similar users or items based on their interaction vectors, enabling personalized recommendations.
-
-- **Image Processing:** Cosine similarity can be applied to compare image features extracted using techniques like Convolutional Neural Networks (CNNs). It helps in tasks such as image retrieval and content-based image recommendation.
 
