@@ -42,7 +42,31 @@ The collaborative filtering method is based on gathering and analyzing data on u
 <p align="center">
 <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*jBBeSKBQg4H7VslNT34f4w.png" alt="Image" width="50%" height="50%">
 </p>
-   
+
+
+## Recommendation System Workflow
+
+This project implements a content-based recommendation system for suggesting similar movies based on textual features. The following steps outline the workflow of the recommendation system:
+
+1. **Building the Corpus:**
+   - The movie dataset is used to construct a corpus containing various textual features such as title, overview, genres, keywords, cast, and crew. Each movie in the corpus is represented by these features.
+
+2. **Data Cleaning:**
+   - Data cleaning techniques are applied to ensure that the dataset is in a suitable format for analysis. This involves handling missing values, removing duplicates, and standardizing text formats.
+
+3. **Applying Count Vectorizer:**
+   - Textual features such as movie titles, overviews, genres, keywords, cast, and crew are transformed into numerical representations using Count Vectorization. This process converts each text feature into a vector of term frequencies.
+
+4. **Cosine Similarity Pairwise:**
+   - Pairwise similarities between movies are computed using cosine similarity. This metric measures the cosine of the angle between two vectors, providing a measure of similarity between them. The similarity scores capture the relationships between movies based on their textual features.
+
+5. **Sorting for Each Film and Extracting Best 5 Films:**
+   - For each movie, the similarity scores obtained from cosine similarity are sorted in descending order. This sorting allows the identification of the top movies that are most similar to each given movie. The top 5 similar movies are then extracted for each movie, forming the basis for recommendations.
+
+By following these steps, the recommendation system analyzes textual features of movies to suggest similar movies, enhancing the overall movie-watching experience for users.
+
+
+
 # Cosine Similarity
 
 Cosine similarity is a metric used to measure the similarity between two vectors in a multi-dimensional space. It calculates the cosine of the angle between these vectors, which is a measure of how closely they align with each other. for better understanding , please refer
