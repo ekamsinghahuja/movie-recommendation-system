@@ -43,7 +43,8 @@ The collaborative filtering method is based on gathering and analyzing data on u
 
 Cosine similarity is a metric used to measure the similarity between two vectors in a multi-dimensional space. It calculates the cosine of the angle between these vectors, which is a measure of how closely they align with each other. for better understanding , please refer
 
-![Image](sim_ex.jpeg)
+
+<img src="sim_ex.jpeg" alt="Image" width="50%" height="50%">
 
 
 ### Applications
