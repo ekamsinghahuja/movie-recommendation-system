@@ -1,4 +1,4 @@
-## MOVIE RECOMMENDATION SYSTEM
+![image](https://github.com/ekamsinghahuja/movie-recommendation-system/assets/97456246/4c71c49b-f3c3-4bc2-9813-4608eb60b80e)## MOVIE RECOMMENDATION SYSTEM
 
 ![Website Screenshot](imgg.jpeg)
 
@@ -18,19 +18,19 @@ The main types of recommendation systems implemented are:
 1. **Content-Based Filtering:**
   Content-based filtering methods are based on the description of a product and a profile of the user’s preferred choices. In this recommendation system, products are described using keywords, and a user profile is built to express the kind of item this user likes.
 **For instance, if a user likes to watch movies such as Iron Man, the recommender system recommends movies of the superhero genre or films describing Tony Stark.**
-![Website Screenshot](imgg.jpeg)
+![Website Screenshot](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*3YEZG1dEqvNz70h0uhP5Fg.png)
    
-3. **Collaborative Filtering:**
+2. **Collaborative Filtering:**
 The collaborative filtering method is based on gathering and analyzing data on user’s behavior. This includes the user’s online activities and predicting what they will like based on the similarity with other users.For example, if user A likes Apple, Banana, and Mango while user B likes Apple, Banana, and Jackfruit, they have similar interests. So, it is highly likely that A would like Jackfruit and B would enjoy Mango. This is how collaborative filtering takes place.
 Two kinds of collaborative filtering techniques used are:
 
   User-User collaborative filtering
   Item-Item collaborative filtering
-  ![Website Screenshot](imgg.jpeg)
+  ![Website Screenshot](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*SPE85ePd_aiJDO9RVbfbig.png)
    
 3. **Hybrid Recommendation Systems:**
  In hybrid recommendation systems, products are recommended using both content-based and collaborative filtering simultaneously to suggest a broader range of products to customers. This recommendation system is up-and-coming and is said to provide more accurate recommendations than other recommender systems.
-![Website Screenshot](imgg.jpeg)
+![Website Screenshot](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*jBBeSKBQg4H7VslNT34f4w.png)
 
 ## Cosine Similarity
 
