@@ -6,6 +6,9 @@
 
 [GET ROCOMMENDED](https://movie-recommendation-system-6dsabbtei9kns3qby52xwx.streamlit.app/)
 
+## DataSet Used
+
+The dataset used in this project contains information on 5000 movies, including various details such as genre, cast, crew, and more. This dataset serves as the foundation for the analysis, modeling, or any other tasks performed in this project.
 
 ## Cosine Similarity
 
