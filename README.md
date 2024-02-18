@@ -11,7 +11,7 @@
 
 Cosine similarity is a metric used to measure the similarity between two vectors in a multi-dimensional space. It calculates the cosine of the angle between these vectors, which is a measure of how closely they align with each other. for better understanding , please refer
 
-![Website Screenshot](sim_example.jpeg)
+![Website Screenshot](sim_ex.jpeg)
 
 
 ### Applications
