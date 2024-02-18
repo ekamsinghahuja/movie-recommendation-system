@@ -66,6 +66,14 @@ This project implements a content-based recommendation system for suggesting sim
 By following these steps, the recommendation system analyzes textual features of movies to suggest similar movies, enhancing the overall movie-watching experience for users.
 
 
+# Count Vectorizer
+
+Count Vectorization is a technique used in natural language processing (NLP) to convert a collection of text documents into a numerical representation that machine learning algorithms can understand. It's one of the simplest and most commonly used methods for text feature extraction.
+
+<p align="center">
+  <img src="https://www.educative.io/api/edpresso/shot/5197621598617600/image/6596233398321152" alt="Image" width="50%" height="50%">
+</p>
+
 
 # Cosine Similarity
 
