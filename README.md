@@ -4,7 +4,7 @@
 
 # Website
 
-[GET ROCOMMENDED](https://movie-recommendation-system-6dsabbtei9kns3qby52xwx.streamlit.app/)
+[GET RECOMMENDED](https://movie-recommendation-system-6dsabbtei9kns3qby52xwx.streamlit.app/)
 
 # main notebook
 [Link](https://www.kaggle.com/ekamsingh123go/movie-rec)
